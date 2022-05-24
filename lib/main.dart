@@ -114,8 +114,7 @@ showBottomSheet(
         ),
         TextButton(
             style: ButtonStyle(
-              backgroundColor:
-                  MaterialStateProperty.all(Colors.lightBlueAccent),
+              backgroundColor: MaterialStateProperty.all(Colors.redAccent),
             ),
             onPressed: () {
               // Check to see if isUpdate is true then update the value else add the value
