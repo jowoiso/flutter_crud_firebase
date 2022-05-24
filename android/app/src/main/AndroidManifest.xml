@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.afdulfauzan.flutter_crud_firebase">
    <application
-        android:label="flutter_crud_firebase"
+        android:label="Todo App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
